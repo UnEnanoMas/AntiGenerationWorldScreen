@@ -28,6 +28,7 @@ if($event->getFinalDamage() >= $player->getHealth()) {
 $event->setCancelled();
 $player->teleport($this->getServer()->getDefaultLevel()->getSafeSpawn());
 $player->setHealth($player->getMaxHealth());
+$player->addTitle("§l§cYOU DIED!", "§r§eTeleported to lobby", 1, 100, 50);
    }
 }
 
