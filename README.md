@@ -22,3 +22,7 @@
 Discord: @Roospy#1666
 
 ---
+
+### Credits:
+
+- Icon made by: Freepiik -Flaticon: https://flaticon.com
