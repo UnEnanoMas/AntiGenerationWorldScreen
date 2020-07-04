@@ -1,5 +1,14 @@
 <?php
 
+/**
+ * 
+ * Copyright 2020 matymare
+ * 
+ * Do not sell, modify or anything similar to the plugin without any question from the plugin owner!
+ * I created the plugin due to a bug on my server.
+ * 
+ */
+
 namespace matymare\AntiGeneratingWorldScreen;
 use pocketmine\Server;
 use pocketmine\Player;
@@ -25,4 +34,3 @@ $player->setHealth($player->getMaxHealth());
     public function onDisable(){
     }
 }
-
